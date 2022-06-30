@@ -3,8 +3,3 @@
 
 # Amacımız
 - Yazılacak.
-
-# Takımımız
-
-- [iamnullman](https://nullman.tech) • Proje Kurucusu
-- [justmert](https://justmert.org) • Proje Kurucusu
